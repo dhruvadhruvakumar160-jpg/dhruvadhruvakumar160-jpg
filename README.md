@@ -1,4 +1,4 @@
-## Hi there 👋
+This is my First Git Repository.
 
 <!--
 **dhruvadhruvakumar160-jpg/dhruvadhruvakumar160-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
